@@ -5,7 +5,7 @@
 	<div class="container">
 		<div id="login-box">
 			<div class="logo">
-				<img src="user-pic.png" class="img img-responsive img-circle center-block"/> <!--add link of picture-->
+				<img src="user-pic.png" class="img img-responsive img-circle"/> <!--add link of picture-->
 				<h1 class="logo-caption"><span class="tweak">L</span>ogin</h1>
 			</div><!-- /.logo -->
 			<div class="controls">
